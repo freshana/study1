@@ -1,0 +1,49 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.login-body{
+
+}
+
+.login-body .login-box {
+    position: relative;
+    top: 200px;
+    width: 500px;
+    min-height: 100px;
+    border: 1px solid #e2e2e2;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.login-body .login-box .header {
+    background-color: #31b0d5;
+}
+
+.login-body .login-box .heading {
+    margin: 0px;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+}
+
+.login-body .login-box .body .id,
+.login-body .login-box .body .password {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.login-body .login-box .body .id {
+    margin-top: 10px;
+}
+
+.login-body .login-box .footer {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+
+}
